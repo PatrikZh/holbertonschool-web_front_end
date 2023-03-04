@@ -28,12 +28,12 @@ a {
 
 .section-header{
     text-align: var(--section-header-align);
-    font-family: var(--font-family-title);
-    text-transform: var(--section-tagline-transform);
-    font-weight: var(--font-weight-bold);
 }
 .section-tagline {
     color: var(--color-primary);
+    font-family: var(--font-family-title);
+    text-transform: var(--section-tagline-transform);
+    font-weight: var(--font-weight-bold);
 }
 :root {
     --font-family-base: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;
