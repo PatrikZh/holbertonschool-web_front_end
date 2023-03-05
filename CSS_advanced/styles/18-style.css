@@ -118,7 +118,7 @@ a:active {
 
 .nav .nav-link {
     display: block;
-    padding: 0.5rem, 1rem;
+    padding: 0.5rem 1rem;
 }
 
 .nav .nav.link:hover {
@@ -159,6 +159,6 @@ a:active {
     --nav-item-font-size: var(--font-size-medium);
     --nav-item-letter-spacing: 0.04rem;
     --nav-item-display: inline-block;
-    --nav-item-margin: 0 0 3em;
+    --nav-item-margin: 0 0 3rem;
     --nav-item-link-hover: var(--color-primary);
 }
