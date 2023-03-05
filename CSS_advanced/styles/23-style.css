@@ -172,7 +172,7 @@ ul.row {
 }
 
 .social-link {
-    display: none;
+    display: block;
 }
 
 .social-link > svg {
